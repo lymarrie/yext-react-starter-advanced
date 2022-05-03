@@ -1,0 +1,19 @@
+{
+    "$id": "site-entity",
+    "filter": {
+      "entityIds": [
+        "facility-template"
+      ]
+    },
+    "source": "knowledgeGraph",
+    "fields": [
+      "c_header",
+      "c_footer"
+    ],
+    "localization": {
+      "locales": [
+        "en"
+      ],
+      "primary": false
+    }
+  }

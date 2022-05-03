@@ -1,0 +1,263 @@
+{
+	"__": {
+		"entityPageSet": {
+			"plugin": {}
+		},
+		"name": "index",
+		"streamId": "facilities",
+		"templateType": "JS"
+	},
+	"_site": {
+		"c_footer": [
+			{
+				"label": "Privacy Policy",
+				"uRL": "/legal/privacy"
+			},
+			{
+				"label": "Patient Care \u0026 Safety",
+				"uRL": "/patient-safety"
+			},
+			{
+				"label": "COVID-19 FAQ",
+				"uRL": "/covid-19-faq"
+			},
+			{
+				"label": "Member of the Dental Health Society",
+				"uRL": "https://dentalhealthsociety.com/"
+			}
+		],
+		"id": "facility-template",
+		"meta": {
+			"entityType": {
+				"id": "ce_site",
+				"uid": 88848
+			},
+			"locale": "en",
+			"updateTimestamp": "2022-05-03T21:52:07Z"
+		},
+		"uid": 21540810
+	},
+	"address": {
+		"city": "Royal Palm Beach",
+		"countryCode": "US",
+		"line1": "9940 Belvedere Rd",
+		"line2": "Ste A",
+		"postalCode": "33411",
+		"region": "FL"
+	},
+	"businessId": 0,
+	"c_featuredServices": [
+		{
+			"description": "Cosmetic dental procedures are aimed at improving the appearance of your teeth, gums, and bite and fighting the effects of age and wear that affect even the healthiest teeth. From alignment, shape, or size to whitening and stain removal, our cosmetic dental services can improve the aesthetic quality of your teeth so that your smile looks as good as it feels.",
+			"name": "Cosmetic Dentistry"
+		},
+		{
+			"description": "Over time, your teeth's natural whiteness can fade or become discolored as the result of diet, personal habits, or the natural aging process. However, the teeth whitening procedures we offer here at {{name}} can restore the brilliance of your smile. Our professional whitening techniques can brighten your teeth by several shades in a remarkably short period.",
+			"name": "Teeth Whitening"
+		},
+		{
+			"description": "Your dental team at {{name}} is ready to help you develop a comprehensive treatment plan for achieving and maintaining a beautiful smile. We firmly believe that good oral health is a critical component to good overall health and every patient deserves individualized care. Through exams, cleaning, and screening, we are excited to provide the most effective kind of dental care: preventative maintenance.",
+			"name": "Oral Health"
+		}
+	],
+	"c_meetTheDoctors": [
+		{
+			"headshot": {
+				"height": 500,
+				"thumbnails": [
+					{
+						"height": 500,
+						"url": "http://a.mktgcdn.com/p-sandbox/NVWrDoVFt94ok8obT2w_E2eWaqDK48kQqMVmcpiErSM/500x500.jpg",
+						"width": 500
+					},
+					{
+						"height": 450,
+						"url": "http://a.mktgcdn.com/p-sandbox/NVWrDoVFt94ok8obT2w_E2eWaqDK48kQqMVmcpiErSM/450x450.jpg",
+						"width": 450
+					},
+					{
+						"height": 196,
+						"url": "http://a.mktgcdn.com/p-sandbox/NVWrDoVFt94ok8obT2w_E2eWaqDK48kQqMVmcpiErSM/196x196.jpg",
+						"width": 196
+					}
+				],
+				"url": "http://a.mktgcdn.com/p-sandbox/NVWrDoVFt94ok8obT2w_E2eWaqDK48kQqMVmcpiErSM/500x500.jpg",
+				"width": 500
+			},
+			"name": "Abby Young, DDS"
+		},
+		{
+			"headshot": {
+				"height": 500,
+				"thumbnails": [
+					{
+						"height": 500,
+						"url": "http://a.mktgcdn.com/p-sandbox/H-oYAt6GpebE5nDTV9aE0VUA3FHC-S_xR_VnQ7ZvyBc/500x500.jpg",
+						"width": 500
+					},
+					{
+						"height": 450,
+						"url": "http://a.mktgcdn.com/p-sandbox/H-oYAt6GpebE5nDTV9aE0VUA3FHC-S_xR_VnQ7ZvyBc/450x450.jpg",
+						"width": 450
+					},
+					{
+						"height": 196,
+						"url": "http://a.mktgcdn.com/p-sandbox/H-oYAt6GpebE5nDTV9aE0VUA3FHC-S_xR_VnQ7ZvyBc/196x196.jpg",
+						"width": 196
+					}
+				],
+				"url": "http://a.mktgcdn.com/p-sandbox/H-oYAt6GpebE5nDTV9aE0VUA3FHC-S_xR_VnQ7ZvyBc/500x500.jpg",
+				"width": 500
+			},
+			"name": "Adrian D. Mohn, DDS"
+		},
+		{
+			"headshot": {
+				"height": 500,
+				"thumbnails": [
+					{
+						"height": 500,
+						"url": "http://a.mktgcdn.com/p-sandbox/OdnIXrk2ijGNedc8HDHO5jS3UWm7Fr2HExQcdmkMdng/500x500.jpg",
+						"width": 500
+					},
+					{
+						"height": 450,
+						"url": "http://a.mktgcdn.com/p-sandbox/OdnIXrk2ijGNedc8HDHO5jS3UWm7Fr2HExQcdmkMdng/450x450.jpg",
+						"width": 450
+					},
+					{
+						"height": 196,
+						"url": "http://a.mktgcdn.com/p-sandbox/OdnIXrk2ijGNedc8HDHO5jS3UWm7Fr2HExQcdmkMdng/196x196.jpg",
+						"width": 196
+					}
+				],
+				"url": "http://a.mktgcdn.com/p-sandbox/OdnIXrk2ijGNedc8HDHO5jS3UWm7Fr2HExQcdmkMdng/500x500.jpg",
+				"width": 500
+			},
+			"name": "Akeadra E. Bell, DMD"
+		}
+	],
+	"c_primaryColor": "MIDNIGHTBLUE",
+	"c_secondaryColor": "DARKRED",
+	"geocodedCoordinate": {
+		"latitude": 26.6911595,
+		"longitude": -80.19879569999999
+	},
+	"hours": {
+		"friday": {
+			"openIntervals": [
+				{
+					"end": "19:00",
+					"start": "08:00"
+				}
+			]
+		},
+		"monday": {
+			"openIntervals": [
+				{
+					"end": "19:00",
+					"start": "08:00"
+				}
+			]
+		},
+		"saturday": {
+			"openIntervals": [
+				{
+					"end": "14:00",
+					"start": "09:00"
+				}
+			]
+		},
+		"sunday": {
+			"isClosed": true
+		},
+		"thursday": {
+			"openIntervals": [
+				{
+					"end": "19:00",
+					"start": "08:00"
+				}
+			]
+		},
+		"tuesday": {
+			"openIntervals": [
+				{
+					"end": "19:00",
+					"start": "08:00"
+				}
+			]
+		},
+		"wednesday": {
+			"openIntervals": [
+				{
+					"end": "19:00",
+					"start": "08:00"
+				}
+			]
+		}
+	},
+	"id": "1580",
+	"key": "0:index:knowledgeGraph:21522394:en",
+	"locale": "en",
+	"logo": {
+		"image": {
+			"height": 754,
+			"thumbnails": [
+				{
+					"height": 754,
+					"url": "http://a.mktgcdn.com/p-sandbox/BiOhj57BDbJgGMTshT_l4xVOWEhfaiW16hXgsX8LK3U/754x754.png",
+					"width": 754
+				},
+				{
+					"height": 619,
+					"url": "http://a.mktgcdn.com/p-sandbox/BiOhj57BDbJgGMTshT_l4xVOWEhfaiW16hXgsX8LK3U/619x619.png",
+					"width": 619
+				},
+				{
+					"height": 450,
+					"url": "http://a.mktgcdn.com/p-sandbox/BiOhj57BDbJgGMTshT_l4xVOWEhfaiW16hXgsX8LK3U/450x450.png",
+					"width": 450
+				},
+				{
+					"height": 196,
+					"url": "http://a.mktgcdn.com/p-sandbox/BiOhj57BDbJgGMTshT_l4xVOWEhfaiW16hXgsX8LK3U/196x196.png",
+					"width": 196
+				}
+			],
+			"url": "http://a.mktgcdn.com/p-sandbox/BiOhj57BDbJgGMTshT_l4xVOWEhfaiW16hXgsX8LK3U/754x754.png",
+			"width": 754
+		}
+	},
+	"mainPhone": "+15613334457",
+	"meta": {
+		"entityType": {
+			"id": "healthcareFacility",
+			"uid": 2
+		},
+		"locale": "en",
+		"updateTimestamp": "2022-05-03T18:56:24Z"
+	},
+	"name": "Anderson Dental - Royal Palm Beach",
+	"photoGallery": [
+		{
+			"image": {
+				"height": 1080,
+				"thumbnails": [
+					{
+						"height": 1080,
+						"url": "https://a.mktgcdn.com/p-sandbox/0DlvW_nJxVYkRgXTP5eIw2xwn4aYAg00X-s8csbbuyM/1920x1080.jpg",
+						"width": 1920
+					}
+				],
+				"url": "https://a.mktgcdn.com/p-sandbox/0DlvW_nJxVYkRgXTP5eIw2xwn4aYAg00X-s8csbbuyM/1920x1080.jpg",
+				"width": 1920
+			}
+		}
+	],
+	"siteId": 0,
+	"uid": 21522394,
+	"websiteUrl": {
+		"preferDisplayUrl": false,
+		"url": "http://anderson-dental.com"
+	}
+}
