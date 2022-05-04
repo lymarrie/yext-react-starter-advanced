@@ -1,0 +1,71 @@
+{
+	"__": {
+		"entityPageSet": {
+			"plugin": {}
+		},
+		"name": "services",
+		"streamId": "services",
+		"templateType": "JS"
+	},
+	"_site": {
+		"c_footer": [
+			{
+				"label": "Privacy Policy",
+				"uRL": "/legal/privacy"
+			},
+			{
+				"label": "Patient Care \u0026 Safety",
+				"uRL": "/patient-safety"
+			},
+			{
+				"label": "COVID-19 FAQ",
+				"uRL": "/covid-19-faq"
+			},
+			{
+				"label": "Member of the Dental Health Society",
+				"uRL": "https://dentalhealthsociety.com/"
+			}
+		],
+		"c_header": [
+			{
+				"label": "About Your Dentist",
+				"uRL": "/about-your-dentist"
+			},
+			{
+				"label": "Payment Options",
+				"uRL": "/payment-options"
+			},
+			{
+				"label": "New Patients",
+				"uRL": "/new-patients"
+			}
+		],
+		"id": "facility-template",
+		"meta": {
+			"entityType": {
+				"id": "ce_site",
+				"uid": 88848
+			},
+			"locale": "en",
+			"updateTimestamp": "2022-05-03T21:55:38Z"
+		},
+		"uid": 21540810
+	},
+	"businessId": 0,
+	"c_legalApproved": true,
+	"description": "Over time, your teeth's natural whiteness can fade or become discolored as the result of diet, personal habits, or the natural aging process. However, the teeth whitening procedures we offer here at {{name}} can restore the brilliance of your smile. Our professional whitening techniques can brighten your teeth by several shades in a remarkably short period.",
+	"id": "teeth-whitening",
+	"key": "0:services:knowledgeGraph:21535644:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "ce_service",
+			"uid": 88816
+		},
+		"locale": "en",
+		"updateTimestamp": "2022-05-04T15:55:28Z"
+	},
+	"name": "Teeth Whitening",
+	"siteId": 0,
+	"uid": 21535644
+}

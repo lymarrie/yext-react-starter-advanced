@@ -61,8 +61,8 @@
 	"businessId": 0,
 	"c_featuredServices": [
 		{
-			"description": "Cosmetic dental procedures are aimed at improving the appearance of your teeth, gums, and bite and fighting the effects of age and wear that affect even the healthiest teeth. From alignment, shape, or size to whitening and stain removal, our cosmetic dental services can improve the aesthetic quality of your teeth so that your smile looks as good as it feels.",
-			"name": "Cosmetic Dentistry"
+			"description": "Dental emergencies usually occur swiftly, without warning, and can be extremely painful. Regardless of whether or not you are a regular patient with us here at {{name}}, if you are in the {{address.city}}, {{address.region}} area and have experienced a dental emergency, call us at {{mainPhone}} to schedule the treatment you need during our regular business hours.",
+			"name": "Emergency Dental Care"
 		},
 		{
 			"description": "Over time, your teeth's natural whiteness can fade or become discolored as the result of diet, personal habits, or the natural aging process. However, the teeth whitening procedures we offer here at {{name}} can restore the brilliance of your smile. Our professional whitening techniques can brighten your teeth by several shades in a remarkably short period.",
@@ -105,24 +105,24 @@
 				"thumbnails": [
 					{
 						"height": 500,
-						"url": "http://a.mktgcdn.com/p-sandbox/H-oYAt6GpebE5nDTV9aE0VUA3FHC-S_xR_VnQ7ZvyBc/500x500.jpg",
+						"url": "http://a.mktgcdn.com/p-sandbox/WHUB4p-HDoLt4lh1csozOUWajyXsFKEoHaY46m5T_ek/500x500.jpg",
 						"width": 500
 					},
 					{
 						"height": 450,
-						"url": "http://a.mktgcdn.com/p-sandbox/H-oYAt6GpebE5nDTV9aE0VUA3FHC-S_xR_VnQ7ZvyBc/450x450.jpg",
+						"url": "http://a.mktgcdn.com/p-sandbox/WHUB4p-HDoLt4lh1csozOUWajyXsFKEoHaY46m5T_ek/450x450.jpg",
 						"width": 450
 					},
 					{
 						"height": 196,
-						"url": "http://a.mktgcdn.com/p-sandbox/H-oYAt6GpebE5nDTV9aE0VUA3FHC-S_xR_VnQ7ZvyBc/196x196.jpg",
+						"url": "http://a.mktgcdn.com/p-sandbox/WHUB4p-HDoLt4lh1csozOUWajyXsFKEoHaY46m5T_ek/196x196.jpg",
 						"width": 196
 					}
 				],
-				"url": "http://a.mktgcdn.com/p-sandbox/H-oYAt6GpebE5nDTV9aE0VUA3FHC-S_xR_VnQ7ZvyBc/500x500.jpg",
+				"url": "http://a.mktgcdn.com/p-sandbox/WHUB4p-HDoLt4lh1csozOUWajyXsFKEoHaY46m5T_ek/500x500.jpg",
 				"width": 500
 			},
-			"name": "Adrian D. Mohn, DDS"
+			"name": "Aaron M. Braithwaite, DDS"
 		},
 		{
 			"headshot": {
@@ -150,7 +150,7 @@
 			"name": "Akeadra E. Bell, DMD"
 		}
 	],
-	"c_primaryColor": "MIDNIGHTBLUE",
+	"c_primaryColor": "DARKBLUE",
 	"c_secondaryColor": "DARKRED",
 	"geocodedCoordinate": {
 		"latitude": 38.43626,
@@ -204,7 +204,14 @@
 			]
 		}
 	},
-	"id": "229",
+	"id": "loc1",
+	"insuranceAccepted": [
+		"Delta Dental",
+		"MetLife",
+		"Cigna",
+		"United Healthcare",
+		"United Concordia"
+	],
 	"key": "0:index:knowledgeGraph:21522230:en",
 	"locale": "en",
 	"logo": {
@@ -232,7 +239,7 @@
 			"uid": 2
 		},
 		"locale": "en",
-		"updateTimestamp": "2022-05-03T18:56:24Z"
+		"updateTimestamp": "2022-05-04T12:47:31Z"
 	},
 	"name": "Affordable Dentistry Today",
 	"photoGallery": [

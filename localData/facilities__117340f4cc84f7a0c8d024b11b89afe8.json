@@ -200,7 +200,14 @@
 			]
 		}
 	},
-	"id": "823",
+	"id": "loc16",
+	"insuranceAccepted": [
+		"DenteMax",
+		"Delta Dental",
+		"Aetna",
+		"MetLife",
+		"Blue Cross Blue Shield"
+	],
 	"key": "0:index:knowledgeGraph:21522286:en",
 	"locale": "en",
 	"logo": {
@@ -234,7 +241,7 @@
 			"uid": 2
 		},
 		"locale": "en",
-		"updateTimestamp": "2022-05-03T18:56:24Z"
+		"updateTimestamp": "2022-05-04T12:23:26Z"
 	},
 	"name": "Dental Solutions",
 	"photoGallery": [

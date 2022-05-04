@@ -1,14 +1,20 @@
 {
 	"index": [
-		"facilities__117340f4cc84f7a0c8d024b11b89afe8.json",
 		"facilities__da291e5b901f3862b626e8b45709eb7c.json",
-		"facilities__62c4cf43e5494c044a2d6159a0db82d5.json",
-		"facilities__b6deca69fb1e2a9e566aa346d7aa6490.json",
 		"facilities__7ff46b923feb42aed739d64c7c0fd644.json",
-		"facilities__ec8b0b19658db5e78eba431ba102a8a7.json",
 		"facilities__c28976954f8a0e3964ce0cd5582b6b01.json",
+		"facilities__117340f4cc84f7a0c8d024b11b89afe8.json",
 		"facilities__c0a9efde3b2990ac5bcba4c6faa90148.json",
 		"facilities__c2bed477f3dde5ff8be66fb56490c85d.json",
-		"facilities__e9a96d3df5057b92c71e633e1af721f7.json"
+		"facilities__62c4cf43e5494c044a2d6159a0db82d5.json",
+		"facilities__b6deca69fb1e2a9e566aa346d7aa6490.json",
+		"facilities__e9a96d3df5057b92c71e633e1af721f7.json",
+		"facilities__ec8b0b19658db5e78eba431ba102a8a7.json"
+	],
+	"services": [
+		"services__7ea82a3d8d2c3b18704c752e647d6781.json",
+		"services__62bb7b3904f827d30d62f32c6344a1b9.json",
+		"services__bcb94b4b44c38381cb23ff7282002940.json",
+		"services__1e35e3f6888c00fc1b4e9b467815b911.json"
 	]
 }

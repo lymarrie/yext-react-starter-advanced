@@ -206,7 +206,12 @@
 			]
 		}
 	},
-	"id": "1645",
+	"id": "loc11",
+	"insuranceAccepted": [
+		"Cigna",
+		"Blue Cross Blue Shield",
+		"Aetna"
+	],
 	"key": "0:index:knowledgeGraph:21522368:en",
 	"locale": "en",
 	"logo": {
@@ -250,7 +255,7 @@
 			"uid": 2
 		},
 		"locale": "en",
-		"updateTimestamp": "2022-05-03T18:56:24Z"
+		"updateTimestamp": "2022-05-04T15:40:59Z"
 	},
 	"name": "Christie Dental of Palm Bay",
 	"photoGallery": [

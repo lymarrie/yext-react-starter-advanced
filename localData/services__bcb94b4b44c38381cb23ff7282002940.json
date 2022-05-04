@@ -1,0 +1,71 @@
+{
+	"__": {
+		"entityPageSet": {
+			"plugin": {}
+		},
+		"name": "services",
+		"streamId": "services",
+		"templateType": "JS"
+	},
+	"_site": {
+		"c_footer": [
+			{
+				"label": "Privacy Policy",
+				"uRL": "/legal/privacy"
+			},
+			{
+				"label": "Patient Care \u0026 Safety",
+				"uRL": "/patient-safety"
+			},
+			{
+				"label": "COVID-19 FAQ",
+				"uRL": "/covid-19-faq"
+			},
+			{
+				"label": "Member of the Dental Health Society",
+				"uRL": "https://dentalhealthsociety.com/"
+			}
+		],
+		"c_header": [
+			{
+				"label": "About Your Dentist",
+				"uRL": "/about-your-dentist"
+			},
+			{
+				"label": "Payment Options",
+				"uRL": "/payment-options"
+			},
+			{
+				"label": "New Patients",
+				"uRL": "/new-patients"
+			}
+		],
+		"id": "facility-template",
+		"meta": {
+			"entityType": {
+				"id": "ce_site",
+				"uid": 88848
+			},
+			"locale": "en",
+			"updateTimestamp": "2022-05-03T21:55:38Z"
+		},
+		"uid": 21540810
+	},
+	"businessId": 0,
+	"c_legalApproved": true,
+	"description": "Cosmetic dental procedures are aimed at improving the appearance of your teeth, gums, and bite and fighting the effects of age and wear that affect even the healthiest teeth. From alignment, shape, or size to whitening and stain removal, our cosmetic dental services can improve the aesthetic quality of your teeth so that your smile looks as good as it feels.",
+	"id": "cosmetic-dentistry",
+	"key": "0:services:knowledgeGraph:21535640:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "ce_service",
+			"uid": 88816
+		},
+		"locale": "en",
+		"updateTimestamp": "2022-05-04T15:55:28Z"
+	},
+	"name": "Cosmetic Dentistry",
+	"siteId": 0,
+	"uid": 21535640
+}

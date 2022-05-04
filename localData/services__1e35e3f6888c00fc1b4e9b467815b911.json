@@ -1,0 +1,71 @@
+{
+	"__": {
+		"entityPageSet": {
+			"plugin": {}
+		},
+		"name": "services",
+		"streamId": "services",
+		"templateType": "JS"
+	},
+	"_site": {
+		"c_footer": [
+			{
+				"label": "Privacy Policy",
+				"uRL": "/legal/privacy"
+			},
+			{
+				"label": "Patient Care \u0026 Safety",
+				"uRL": "/patient-safety"
+			},
+			{
+				"label": "COVID-19 FAQ",
+				"uRL": "/covid-19-faq"
+			},
+			{
+				"label": "Member of the Dental Health Society",
+				"uRL": "https://dentalhealthsociety.com/"
+			}
+		],
+		"c_header": [
+			{
+				"label": "About Your Dentist",
+				"uRL": "/about-your-dentist"
+			},
+			{
+				"label": "Payment Options",
+				"uRL": "/payment-options"
+			},
+			{
+				"label": "New Patients",
+				"uRL": "/new-patients"
+			}
+		],
+		"id": "facility-template",
+		"meta": {
+			"entityType": {
+				"id": "ce_site",
+				"uid": 88848
+			},
+			"locale": "en",
+			"updateTimestamp": "2022-05-03T21:55:38Z"
+		},
+		"uid": 21540810
+	},
+	"businessId": 0,
+	"c_legalApproved": true,
+	"description": "Your dental team at {{name}} is ready to help you develop a comprehensive treatment plan for achieving and maintaining a beautiful smile. We firmly believe that good oral health is a critical component to good overall health and every patient deserves individualized care. Through exams, cleaning, and screening, we are excited to provide the most effective kind of dental care: preventative maintenance.",
+	"id": "oral-health",
+	"key": "0:services:knowledgeGraph:21535641:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "ce_service",
+			"uid": 88816
+		},
+		"locale": "en",
+		"updateTimestamp": "2022-05-04T15:55:28Z"
+	},
+	"name": "Oral Health",
+	"siteId": 0,
+	"uid": 21535641
+}

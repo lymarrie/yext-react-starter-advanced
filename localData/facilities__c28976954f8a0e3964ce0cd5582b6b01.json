@@ -205,7 +205,12 @@
 			]
 		}
 	},
-	"id": "1340",
+	"id": "loc14",
+	"insuranceAccepted": [
+		"Cigna",
+		"Blue Cross Blue Shield",
+		"Aetna"
+	],
 	"key": "0:index:knowledgeGraph:21522317:en",
 	"locale": "en",
 	"logo": {
@@ -244,7 +249,7 @@
 			"uid": 2
 		},
 		"locale": "en",
-		"updateTimestamp": "2022-05-03T18:56:24Z"
+		"updateTimestamp": "2022-05-04T15:40:59Z"
 	},
 	"name": "Coastal Dental Care of Milford",
 	"photoGallery": [

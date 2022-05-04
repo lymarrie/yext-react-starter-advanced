@@ -3,6 +3,7 @@ import { renderToString } from 'react-dom/server';
 import Banner from '../components/banner';
 import Contact from '../components/contact';
 import Information from '../components/information';
+import Insurances from '../components/insurances';
 import Footer from '../components/footer';
 import Header from '../components/header';
 import Doctors from '../components/doctors';
@@ -34,6 +35,7 @@ export const config = {
       'geocodedCoordinate',
       'logo',
       'photoGallery',
+      'insuranceAccepted',
       'c_primaryColor',
       'c_secondaryColor',
       'websiteUrl',
@@ -71,6 +73,7 @@ const Index = ({ data }: { data: any }) => {
     geocodedCoordinate,
     logo,
     photoGallery,
+    insuranceAccepted,
     c_primaryColor,
     c_secondaryColor,
     websiteUrl,
@@ -84,8 +87,9 @@ const Index = ({ data }: { data: any }) => {
         <Header name={name} primaryColor={c_primaryColor} secondaryColor={c_secondaryColor} logo={logo} address={address}></Header>
         <Banner name={name} secondaryColor="blue" photo={photoGallery[0].image.url} mainPhone={mainPhone}></Banner>
           <div className="centered-container">
-            <Services name={name} services={c_featuredServices}></Services>
+            <Services name={name} services={c_featuredServices} address={address} phone={mainPhone}></Services>
             <Doctors doctors={c_meetTheDoctors}></Doctors>
+            <Insurances list={insuranceAccepted}></Insurances>
             <StaticMap latitude={geocodedCoordinate.latitude} longitude={geocodedCoordinate.longitude}></StaticMap>
           </div>
         <Footer footer={_site.c_footer}></Footer>

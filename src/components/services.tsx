@@ -1,9 +1,12 @@
 import Cta from './cta';
 
 const Services = (props: any) => {
-    const { name, services } = props;
+    const { name, services, address, phone } = props;
     services.forEach(function (service:any) {
         service.description = service.description.replace("{{name}}", name);
+        service.description = service.description.replace("{{address.city}}", address.city);
+        service.description = service.description.replace("{{address.region}}", address.region);
+        service.description = service.description.replace("{{mainPhone}}", phone);
     });
 
     const serviceDivs = services.map((service:any) => (
