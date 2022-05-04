@@ -11,7 +11,7 @@
         "pluginName": "Generator",
         "sourceFiles": [
           {
-            "root": "./node_modules/@yext/vite-plugin-yext-sites-ssg/plugin",
+            "root": ".yext/plugin",
             "pattern": "**/*.{ts,json}"
           },
           {
@@ -34,11 +34,8 @@
     ]
   },
   "dependencies": {
-    "installDepsCmd": "npm install --production=false",
-    "requiredFiles": [
-      "package.json",
-      "package-lock.json"
-    ]
+    "installDepsCmd": "npm install",
+    "requiredFiles": ["package.json", "package-lock.json", ".npmrc"]
   },
   "buildArtifacts": {
     "buildCmd": "npm run directbuild"
